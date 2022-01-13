@@ -34,7 +34,6 @@ body {
     font-size: 0.8em;
     padding: 0 0 0 1em;
 }
-<<<<<<< HEAD
 #cabecera #logo {
     width: 20px;
     vertical-align: middle;
@@ -43,12 +42,3 @@ body {
     background: white;
     padding: 1em;
 }
-=======
-#footer {
-    background: #777;
-    color: white;
-    text-align: center;
-    padding: 0.5em;
-
-}
->>>>>>> 13fccd926ffb67e0d522a58838df76ddff076595

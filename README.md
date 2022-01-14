@@ -11,6 +11,7 @@ Un blog increible para el curso de Git y Github de Platzi
 * Trucos muy locos del profe Freddy Vega
 * Creado por el asombroso Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 
 Y como un muy amable recordatorio **este archivo readme.md es un chiste**. Diseñado para ejemplo y aprender a crearlos.
